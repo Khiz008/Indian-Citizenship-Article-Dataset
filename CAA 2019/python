@@ -1,0 +1,15 @@
+Analysis for Public Sentiment:
+Mean Squared Error: 0.0012
+R-squared: 0.0245
+Analysis for Media Coverage:
+Mean Squared Error: 0.0012
+R-squared: 0.0165
+Analysis for Government Statements and Actions:
+Mean Squared Error: 0.0012
+R-squared: 0.0106
+Analysis for Legal Challenges and Court Rulings:
+Mean Squared Error: 0.0012
+R-squared: 0.0262
+Analysis for Public Protests and Demonstrations:
+Mean Squared Error: 0.0009
+R-squared: 0.2089
